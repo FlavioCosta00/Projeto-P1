@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1611614764 source:e:\projeto p1\funcoes_aulaon.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_AulaOn.h"
+
+1611614830 e:\projeto p1\funcoes_aulaon.h
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_UC.h"
+	"funcoes_ficheiros.h"
+
+1611614730 e:\projeto p1\estruturas.h
+	"constantes.h"
+
+1611253442 e:\projeto p1\constantes.h
+
+1611578060 e:\projeto p1\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1611614812 e:\projeto p1\funcoes_uc.h
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+
+1611590060 e:\projeto p1\funcoes_ficheiros.h
+	"estruturas.h"
+
+1611584190 source:e:\projeto p1\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
+1611614576 source:e:\projeto p1\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+
+1611614576 e:\projeto p1\funcoes_estatisticas.h
+	"estruturas.h"
+
+1611599196 source:e:\projeto p1\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_ficheiros.h"
+
+1611614636 source:e:\projeto p1\funcoes_menu.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_menu.h"
+	"funcoes_auxiliares.h"
+	"funcoes_UC.h"
+	"funcoes_AulaOn.h"
+	"estruturas.h"
+
+1611614636 e:\projeto p1\funcoes_menu.h
+	"funcoes_menu.h"
+	"funcoes_auxiliares.h"
+	"funcoes_UC.h"
+	"estruturas.h"
+	"funcoes_estatisticas.h"
+
+1611614788 source:e:\projeto p1\funcoes_uc.c
+	<stdio.h>
+	<string.h>
+	"funcoes_UC.h"
+
+1611614680 source:e:\projeto p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"constantes.h"
+	"funcoes_ficheiros.h"
+	"funcoes_menu.h"
+	"funcoes_UC.h"
+	"funcoes_AulaOn.h"
+	"funcoes_estatisticas.h"
+
+1611614764 source:c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_aulaon.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_AulaOn.h"
+
+1611614830 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_aulaon.h
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_UC.h"
+	"funcoes_ficheiros.h"
+
+1611614730 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\estruturas.h
+	"constantes.h"
+
+1611253442 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\constantes.h
+
+1611578060 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1611614812 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_uc.h
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+
+1611590060 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_ficheiros.h
+	"estruturas.h"
+
+1611584190 source:c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
+1611614576 source:c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+
+1611614576 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_estatisticas.h
+	"estruturas.h"
+
+1611599196 source:c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_ficheiros.h"
+
+1611614636 source:c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_menu.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_menu.h"
+	"funcoes_auxiliares.h"
+	"funcoes_UC.h"
+	"funcoes_AulaOn.h"
+	"estruturas.h"
+
+1611614636 c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_menu.h
+	"funcoes_menu.h"
+	"funcoes_auxiliares.h"
+	"funcoes_UC.h"
+	"estruturas.h"
+	"funcoes_estatisticas.h"
+
+1611614788 source:c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\funcoes_uc.c
+	<stdio.h>
+	<string.h>
+	"funcoes_UC.h"
+
+1611614680 source:c:\users\hsant\onedrive\햞ea de trabalho\projeto p1\projeto p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"constantes.h"
+	"funcoes_ficheiros.h"
+	"funcoes_menu.h"
+	"funcoes_UC.h"
+	"funcoes_AulaOn.h"
+	"funcoes_estatisticas.h"
+
